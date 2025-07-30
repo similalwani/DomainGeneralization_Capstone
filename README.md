@@ -1,4 +1,4 @@
-# Localizing the origin of ventricular activation from 12-Lead ECG using Domain Generalization 🫀
+# Localizing the origin of ventricular activations from 12-Lead ECG using Domain Generalization 🫀
 The aim was to develop a domain generalized model to localize the origin of ventricular activations, using domain invariant patient data using DANN (Domain Adversarial Neural Network). 
 
 This project localizes the origin of ventricular activations from ECG signals using DANN to address domain shift across patients.
